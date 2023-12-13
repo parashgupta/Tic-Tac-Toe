@@ -1,0 +1,25 @@
+*{
+    font-size: 80px;
+    font-family: Times New Roman;
+}
+#back
+{
+  position: absolute;
+    top:20%;
+    left:33%;
+}
+.A
+{
+    position:relative;
+    width:150px;
+    height:150px;
+    color:red;
+    /*background-color: transparent;*/
+}
+#tab
+{
+    position: absolute;
+    top:20%;
+    left:33%;
+}
+
